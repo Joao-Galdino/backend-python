@@ -1,6 +1,5 @@
 from faker import Faker
 
-
 from src.infra.config import DBConnectionHandler
 from .user_repository import UserRepository
 
